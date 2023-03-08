@@ -1,5 +1,5 @@
-# Stanford CS 110L Spring 2020
-This is the Stanford CS 110L Spring 2020 labs and projects by GreyPreacher(Alvin Zhang).
+# Stanford CS110L
+This is the Stanford CS110L **Safety in Systems Programming** Spring 2020 labs and projects by GreyPreacher(Alvin Zhang).
 
 # Resources
 📽 All course resources can be found at [this website](https://reberhardt.com/cs110l/spring-2020/).  
