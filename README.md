@@ -9,7 +9,7 @@
 🐱‍👓 The Exercises contain 6 independent week exercises.
 
 - [x] [Week1: Hello world](https://github.com/GreyPreacher/Stanford-CS110L/tree/main/week1)
-- [ ] Week2: Ownership and structs
+- [x] [Week2: Ownership and structs](https://github.com/GreyPreacher/Stanford-CS110L/tree/main/week2)
 - [ ] Week3: Error handling, I/O, and traits
 - [ ] Week4: Checking in
 - [ ] Week5: Farm meets multithreading
