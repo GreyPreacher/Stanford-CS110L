@@ -1,5 +1,6 @@
 # Stanford CS110L
-😎 This is the Stanford CS110L **Safety in Systems Programming** Spring 2020 labs and projects by GreyPreacher(Alvin Zhang). The IDE I prepare for CS110L is VSCode.
+😎 This is the Stanford CS110L **Safety in Systems Programming** Spring 2020 labs and projects by GreyPreacher(Alvin Zhang).  
+⚔ **IDE**: VSCode.
 
 # Resources
 📽 All course resources can be found at [this website](https://reberhardt.com/cs110l/spring-2020/).  
