@@ -15,8 +15,8 @@
 
 - [x] [Week1: Hello world](https://github.com/GreyPreacher/Stanford-CS110L/tree/main/week1)
 - [x] [Week2: Ownership and structs](https://github.com/GreyPreacher/Stanford-CS110L/tree/main/week2)
-- [ ] Week3: Error handling, I/O, and traits
-- [ ] Week4: Checking in
+- [x] [Week3: Error handling, I/O, and traits](https://github.com/GreyPreacher/Stanford-CS110L/tree/main/week3)
+- [x] Week4: Checking in
 - [ ] Week5: Farm meets multithreading
 - [ ] Week6: Sharing Data by Communicating
 
