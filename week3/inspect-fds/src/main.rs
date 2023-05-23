@@ -17,12 +17,13 @@ fn main() {
     match ret {
         Some(process) => {
             process.print();
+            //Milestone 5
             for child in ps_utils::get_child_processes(process.pid).expect("failed to get child process").iter() {
                 child.print();
             }
         }
         None => {
-            println!("target {} did not match any PIDs or executables", target);
+            println!("target \"{}\" did not match any PIDs or executables", target);
             std::process::exit(1);
         }
     }
