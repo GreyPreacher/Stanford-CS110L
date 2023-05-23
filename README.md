@@ -4,7 +4,11 @@
 
 # Resources
 📽 All course resources can be found at [this website](https://reberhardt.com/cs110l/spring-2020/).  
-📄 You can find Ryan Eberhardt at [this website](https://reberhardt.com/).
+📄 You can find Ryan Eberhardt at [this website](https://reberhardt.com/).  
+📽 For Chinese learners, I strongly recommend the following two websites:
+
+ - [菜鸟教程](https://www.runoob.com/rust/rust-tutorial.html)
+ - [Rust语言圣经](https://course.rs/about-book.html)
 
 # Exercises
 🐱‍👓 The Exercises contain 6 independent week exercises.
